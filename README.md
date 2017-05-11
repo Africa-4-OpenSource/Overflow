@@ -3,5 +3,5 @@ IDE extension for making bug queries to Stack Overflow directly within the IDE (
 
 Authors:
 Seretsi Khabane Lekena
-Mohamadou Diatta
+Mohamadou MD Diatta
 Modupe Theko Lekena
